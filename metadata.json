@@ -1,0 +1,8 @@
+{
+  "name": "Kho lưu trữ – Chi cục Thủy lợi Hưng Yên",
+  "description": "Kho lưu trữ dữ liệu số Chi cục Thủy lợi tỉnh Hưng Yên - Quản lý đê điều, công trình thủy lợi, bản đồ số, hồ sơ lưu trữ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
